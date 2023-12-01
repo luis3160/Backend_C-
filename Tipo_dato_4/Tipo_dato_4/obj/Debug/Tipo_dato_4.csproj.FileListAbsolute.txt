@@ -1,0 +1,7 @@
+C:\Users\luis4\Documents\class_cost\Tipo_dato_4\Tipo_dato_4\obj\Debug\Tipo_dato_4.csproj.AssemblyReference.cache
+C:\Users\luis4\Documents\class_cost\Tipo_dato_4\Tipo_dato_4\obj\Debug\Tipo_dato_4.csproj.CoreCompileInputs.cache
+C:\Users\luis4\Documents\class_cost\Tipo_dato_4\Tipo_dato_4\bin\Debug\Tipo_dato_4.exe.config
+C:\Users\luis4\Documents\class_cost\Tipo_dato_4\Tipo_dato_4\bin\Debug\Tipo_dato_4.exe
+C:\Users\luis4\Documents\class_cost\Tipo_dato_4\Tipo_dato_4\bin\Debug\Tipo_dato_4.pdb
+C:\Users\luis4\Documents\class_cost\Tipo_dato_4\Tipo_dato_4\obj\Debug\Tipo_dato_4.exe
+C:\Users\luis4\Documents\class_cost\Tipo_dato_4\Tipo_dato_4\obj\Debug\Tipo_dato_4.pdb
